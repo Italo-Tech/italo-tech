@@ -12,7 +12,7 @@ Meu nome é Ítalo Henrique, Cursando Análise e Desenvolvimento de Sistemas e a
 
 - :office_worker: Estou em busca de oportunidades Dev Web/ Dev Mobile / QA
 - :blue_heart: Techs: HTML, CSS, Javascript!
-- :books: Estudando sobre ReactJS, React Native, Node.js :heart:
+- :books: Estudando sobre ReactJS, React Native, Node.js, Flutter :heart:
 
 > :octocat: [ItaloTech.dev](https://github.com/Italo-Tech)
 
