@@ -1,19 +1,30 @@
-# Ítalo Henrique :man_technologist:
+> ## Hey !! I'm Italo and I'm a front-end developer with Vuejs at [BEELABS] (https://appbee.com.br/)
+ <div>
+  <a href="https://github.com/Italo-Tech">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=italo-tech&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-tech&layout=compact&langs_count=16&theme=gotham"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ítalo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ítalo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Ítalo-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Ítalo-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+   <img align="center" alt="Ítalo-Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+   <img align="center" alt="Ítalo-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+   <img align="center" alt="Ítalo-Codepen" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg">
+   <img align="center" alt="Ítalo-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
+   <img align="center" alt="Ítalo-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
+  <img align="right" alt="Caique-yoda" src="https://gif-avatars.com/img/150x150/lew.gif">
+</div>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/Italo-Tech)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-tech/)](https://www.linkedin.com/in/italo-tech/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/taloHenrique20)](https://twitter.com/taloHenrique20)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511984111337&text=Olá!)](https://api.whatsapp.com/send?phone=5511984111337&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:italosantosdick@uni9.edu.br)](mailto:italosantosdick@uni9.edu.br)
+##
 
-## Olá 👋
+<div>
+  <a href = "mailto: italosantosdick@uni9.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">     </a>
+  <a href="https://https://www.linkedin.com/in/italo-tech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+![Snake animation](https://github.com/Italo-Tech/Italo-Tech/blob/output/github-contribution-grid-snake.svg)
 
-Meu nome é Ítalo Henrique, Cursando Análise e Desenvolvimento de Sistemas e apaixonado por Desenvolvimento.
-
-- :office_worker: Desenvolvedor Front End Jr na Bee Labs
-- :blue_heart: Techs: HTML, CSS, Javascript, Vuejs
-- :books: Estudando Clean Code e Vuejs :heart:
+ </div>
 
 > :octocat: [ItaloTech.dev](https://github.com/Italo-Tech)
-
 ---
