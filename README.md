@@ -14,7 +14,7 @@
    <img align="center" alt="Ítalo-Codepen" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg">
    <img align="center" alt="Ítalo-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
    <img align="center" alt="Ítalo-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
-  <img align="right" alt="Caique-yoda" src="https://gif-avatars.com/img/150x150/lew.gif">
+    <img align="right" alt="Caique-yoda" src="https://gif-avatars.com/img/150x150/lew.gif">
 </div>
 
 ##
@@ -23,6 +23,6 @@
   <a href = "mailto: italosantosdick@uni9.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">     </a>
   <a href="https://https://www.linkedin.com/in/italo-tech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/ItaloTech/ItaloTech/blob/output/github-contribution-grid-snake.svg)
+[comment]: <> (![Snake animation]&#40;https://github.com/ItaloTech/ItaloTech/blob/output/github-contribution-grid-snake.svg&#41;)
 
  </div>
