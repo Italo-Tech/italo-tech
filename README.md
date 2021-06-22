@@ -1,10 +1,9 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Italo-Tech&repo=Italo-Tech&countColorcountColor)
 
+ ## Seja bem vindo !! Eu me chamo Ítalo e sou desenvolvedor front-end com Vuejs na [BEELABS](https://appbee.com.br/)
 <img align="right" src="https://github.com/Italo-tech/italo-tech/blob/master/.github/images/user.png?raw=true" width="300"/>
 
-<h1 align="center">Ítalo Henrique</h1>
-
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/taloHenrique20">
     <img alt="Siga no Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/taloHenrique20">
   </a>
