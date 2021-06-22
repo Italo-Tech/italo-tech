@@ -1,6 +1,6 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Italo-Tech&repo=Italo-Tech&countColorcountColor)
 
-<img align="right" src="https://github.com/italo-tech/italo-tech/blob/main/imagens/user.png?raw=true" width="300"/>
+<img align="right" src="https://github.com/Italo-tech/italo-tech/blob/master/.github/images/user.png?raw=true" width="300"/>
 
 <h1 align="center">Ítalo Henrique</h1>
 
