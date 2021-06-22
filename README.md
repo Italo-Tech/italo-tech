@@ -1,29 +1,78 @@
-> ## Hey !! I'm Italo and I'm a front-end developer with Vuejs at [BEELABS](https://appbee.com.br/)
- <div>
-  <a href="https://github.com/Italo-Tech">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=italo-tech&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-tech&layout=compact&langs_count=16&theme=gotham"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ítalo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ítalo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Ítalo-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Ítalo-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-   <img align="center" alt="Ítalo-Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-   <img align="center" alt="Ítalo-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-   <img align="center" alt="Ítalo-Codepen" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg">
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Italo-Tech&repo=Italo-Tech&countColorcountColor)
+
+<img align="right" src="https://github.com/italo-tech/italo-tech/blob/main/imagens/user.png?raw=true" width="300"/>
+
+<h1 align="center">Ítalo Henrique</h1>
+
+<p align="center">
+  <a href="https://twitter.com/taloHenrique20">
+    <img alt="Siga no Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/taloHenrique20">
+  </a>
+
+ <a href="https://www.linkedin.com/in/italo-tech/">
+    <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-tech/">
+  </a>
+
+[comment]: <> (  <a href="https://app.rocketseat.com.br/me/gelzieny-1566679543/">)
+
+[comment]: <> (    <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">)
+
+[comment]: <> (  </a>  )
+</p>
+<br>
+
+### :mortar_board: Formação acadêmica
+- Análise e Desenvolvimento de Sistemas - UNINOVE SP
+
+### 🛠 Tecnologias
+
+**Trabalho com:**
+<p align="left">
+    <img align="center" alt="Ítalo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Ítalo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Ítalo-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Ítalo-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+    <img align="center" alt="Ítalo-Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+    <img align="center" alt="Ítalo-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+    <img align="center" alt="Ítalo-Bitbucket" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg">
+    <img align="center" alt="Ítalo-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
+    <img align="center" alt="Ítalo-PhpStorm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-plain-wordmark.svg">
+    <img align="center" alt="Ítalo-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
+    <img align="center" alt="Ítalo-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg">
+</p>
+
+**Estou estudando:**
+
+<p align="left">
+    <!-- Flutter Icon -->
    <img align="center" alt="Ítalo-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
+</p>
+
+
+**Tenho interesse:**
+
+<p align="left">
+    <!-- React Icon -->
+    <img align="center" alt="Ítalo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <!-- React Icon -->
+    <img align="center" alt="Ítalo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-plain.svg">
+<!-- Wordpress Icon -->
    <img align="center" alt="Ítalo-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
-    <img align="right" alt="Caique-yoda" src="https://gif-avatars.com/img/150x150/lew.gif">
-</div>
+</p>
 
-##
+<p align="center">
+<table align='left'>
+  <row>
+    <td>
+     <!-- Card -->
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Tech&layout=compact&theme=dark'>
+    </td>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=Italo-Tech&show_icons=true&theme=dark'>
+    </td>
+  </row>
+</table>
 
-<div>
 
-[comment]: <> (  <a href="mailto:italosantosdick@uni9.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>)
-  <a href="https://www.linkedin.com/in/italo-tech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-[comment]: <> (![Snake animation]&#40;https://github.com/ItaloTech/ItaloTech/blob/output/github-contribution-grid-snake.svg&#41;)
 
- </div>
