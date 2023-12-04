@@ -1,5 +1,3 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Italo-Tech&repo=Italo-Tech&countColorcountColor)
-
 <img src="https://github.com/Italo-tech/italo-tech/blob/master/.github/images/user.png?raw=true" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## Hello, Devs!! 👋
@@ -36,8 +34,12 @@
 [<img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white&link="/>](https://wa.me/5588996082479)
 
 #### Estatísticas:
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Tech&layout=compact&theme=dark"/>](https://github.com/)
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=Italo-Tech&show_icons=true&theme=dark"/>](https://github.com/)
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Italo-Tech&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Italo-Tech&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Italo-Tech&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Italo-Tech&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Italo-Tech&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 
 
 
