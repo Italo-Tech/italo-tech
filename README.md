@@ -9,7 +9,6 @@
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formação em **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.uninove.br">UNINOVE</a>.
 - 👨‍💻 Aperfeiçoando meus conhecimentos na <a href="https://www.origamid.com/">Origamid</a>.
-- 💼 Trabalhando como **Dev Frontend Vuejs** na <a href="https://appbee.com.br">BeeLabs</a>
   
 <br>
 
