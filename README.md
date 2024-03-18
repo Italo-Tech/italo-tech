@@ -16,7 +16,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vuejs,vite,tailwind,linux,bitbucket,phpstorm,trello,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,vuejs,vite,pinia,tailwind,mysql,linux,bitbucket,phpstorm,ubuntu" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,git,github" />
+    <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,gitlab,codepen" />
   </a>
 </p>
 
