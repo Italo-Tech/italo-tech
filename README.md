@@ -1,11 +1,9 @@
 <a href="https://github.com/Italo-Tech">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=Ítalo%20•%20Full%20Stack%20Dev&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=São%20Paulo%2C%20Brasil%20🦁&descAlignY=78&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=Italo%20%E2%80%A2%20Full%20Stack%20Dev&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Sao%20Paulo%2C%20Brasil%20%F0%9F%A6%81&descAlignY=78&descSize=18" />
 </a>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+Web;Vue.js+%7C+Nuxt.js+%7C+React+%7C+Node.js;C%23+%7C+.NET+%7C+TypeScript;Sempre+aprendendo+e+evoluindo+🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+Web;Vue.js+%7C+Nuxt.js+%7C+React+%7C+Node.js;C%23+%7C+.NET+%7C+TypeScript;Sempre+aprendendo+e+evoluindo..." alt="Typing SVG" />
 </p>
 
 ---
@@ -53,7 +51,7 @@ const italo = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Italo-Tech&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Italo-Tech&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -62,18 +60,14 @@ const italo = {
 
 ---
 
-## 🦊 GitLab Stats — [@italo-dkp](https://gitlab.com/italo-dkp)
+## 🦊 GitLab — [@italo-dkp](https://gitlab.com/italo-dkp)
 
 > 💡 Boa parte dos projetos profissionais estão no GitLab — vale conferir!
 
-<p align="center">
-  <a href="https://gitlab.com/italo-dkp">
+<p align="left">
+  <a href="https://gitlab.com/italo-dkp" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-italo--dkp-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://gitlab-readme-stats.vercel.app/api?username=italo-dkp&theme=tokyonight&hide_border=true" alt="GitLab Stats" onerror="this.style.display='none'"/>
 </p>
 
 ---
@@ -95,13 +89,13 @@ const italo = {
 
 <p align="left">
   <a href="https://www.linkedin.com/in/italo-tech/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ítalo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Italo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://wa.me/5588996082479" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chamar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://liondev.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-liondev.com.br-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-liondev.com.br-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
   <a href="https://gitlab.com/italo-dkp" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-italo--dkp-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
