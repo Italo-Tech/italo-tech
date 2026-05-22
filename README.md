@@ -28,6 +28,7 @@
   </a>
 </p>
 
+<!--
 #### Como entrar em contato comigo:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/italo-tech/)
 [<img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white&link="/>](https://wa.me/5588996082479)
@@ -39,6 +40,7 @@
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Italo-Tech&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Italo-Tech&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
+-->
 
 
 
