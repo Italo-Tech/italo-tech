@@ -14,8 +14,8 @@
 const italo = {
   localização:   "São Paulo / SP — Brasil 🇧🇷",
   formação:      "ADS — UNINOVE 🎓",
-  foco:          ["Vue.js", "Nuxt.js", "Node.js", "TypeScript", "C# / .NET"],
-  atualmente:    "Aprofundando Frontend & Arquitetura de Software",
+  foco:          ["Vue.js", "React.js", "Node.js", "Nuxt.js", "TypeScript", "C#, .NET"],
+  atualmente:    "Aprofundando Engenharia & Arquitetura de Software",
   portfólio:     "https://liondev.com.br",
   GitLab:        "https://gitlab.com/italo-dkp",
   curiosidade:   "Apaixonado por Música 🎵 e Tecnologia ⚡",
